@@ -5,7 +5,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-nxu3o-24292E?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E&separator=%7C)](https://github.com/nxu3o)
-[![Discord](https://img.shields.io/badge/Discord-nxu3o-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&separator=%7C)](https://discord.com/users/1228899985563713669)
+[![Discord](https://img.shields.io/badge/Discord-nxu3o-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&separator=%7C)](https://discord.com/users/1526894217551548459)
 [![Instagram](https://img.shields.io/badge/Instagram-@__nxu3o-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&separator=%7C)](https://instagram.com/_nxu3o)
 [![Email](https://img.shields.io/badge/Email-syano@hxix.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&separator=%7C)](mailto:syano@hxix.kr)
 
