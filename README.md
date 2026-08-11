@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://githubcard.com/nxu3o.svg?d=C5DEFD" />
+<img width="90%" src="https://githubcard.com/nxu3o.svg?" />
 
 </div>
 
